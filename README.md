@@ -83,10 +83,3 @@ After running the script, it will:
 * Cloud and rock masking thresholds follow Moussavi (2020)
 * Increase `testnumber` to process a different image from the filtered collection
 
-## 6. License
-
-This repository is provided under the MIT License. See `LICENSE` file for details.
-
----
-
-For questions or contributions, please open an issue or pull request.
